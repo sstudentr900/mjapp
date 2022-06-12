@@ -5,10 +5,10 @@ HTML,CSS,jquery,javascript
 使用XMLHttpRequest+promise
 
 ## 隕石動畫
-使用js.mousemove
-使用css.transform.rotate  隕石晃動
-使用css.transform.translteZ
-使用css.perspective 隕石拉近畫面
+使用js.mousemove <br>
+使用css.transform.rotate  隕石晃動 <br>
+使用css.transform.translteZ 隕石遠近 <br>
+使用css.perspective 隕石拉近畫面 <br>
 
 ## 文字動畫
 js.Math.random()

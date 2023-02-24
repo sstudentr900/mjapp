@@ -10,7 +10,7 @@ HTML,CSS,jquery,javascript
 使用css.transform.translteZ 隕石遠近 <br>
 使用css.perspective 隕石拉近畫面 <br>
 
-## 文字動畫
+## 文字動畫1456456
 js.Math.random()
 
 ## 寄信
